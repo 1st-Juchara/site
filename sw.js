@@ -2,7 +2,7 @@
 const staticCacheName = 's-app-v1'
 
 const assetUrls = [
-    'index.php',
+    'index.html',
     'app.js',
     'style.css'
 ]
