@@ -41,7 +41,7 @@
    "type": "image/png",
   },
   {
-   "src": "/img/android-icon-512x512.png",
+   "src": "/img/apple-icon-512x512.png",
    "sizes": "512x512",
    "type": "image/png",
    "purpose": "maskable"
